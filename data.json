@@ -174,7 +174,7 @@
       "gitops_tool": "flux"
     },
     {
-      "repo": "buvis-net/clusters",
+      "repo": "buvis/clusters",
       "description": "Clusters on Proxmox and bare metal managed by Flux2",
       "gitops_tool": "flux"
     },
