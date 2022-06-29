@@ -236,6 +236,11 @@
       "repo": "shadyf/k8s-homelab",
       "description": "Flux/GitOps setup, running k3s on a cluster with mixed architectures.",
       "gitops_tool": "flux"
+    },
+    {
+      "repo": "nshores/k8s-home-ops",
+      "description": "The configuration for my home k8s environment. K3s/Terraform/vSphere/Ansible/Flux ",
+      "gitops_tool": "flux"
     }
   ],
   "chart_repositories": [
