@@ -135,7 +135,7 @@
     },
     {
       "repo": "budimanjojo/home-cluster",
-      "description": "Flux2/GitOps managed k3s cluster built without helm.",
+      "description": "Flux2/GitOps managed Talos cluster built without helm.",
       "gitops_tool": "flux"
     },
     {
