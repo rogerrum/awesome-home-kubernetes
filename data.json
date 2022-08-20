@@ -241,6 +241,11 @@
       "repo": "nshores/k8s-home-ops",
       "description": "The configuration for my home k8s environment. K3s/Terraform/vSphere/Ansible/Flux ",
       "gitops_tool": "flux"
+    },
+    {
+      "repo": "spirkaa/infra",
+      "description": "ArgoCD managed k8s cluster (Kubeadm, Ansible, Terraform, Packer, Proxmox).",
+      "gitops_tool": "argocd"
     }
   ],
   "chart_repositories": [
