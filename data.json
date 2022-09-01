@@ -124,9 +124,9 @@
       "gitops_tool": "flux"
     },
     {
-      "repo": "rwaltr/infra",
-      "description": "Argo/Terraform Managed Multi Cluster design.",
-      "gitops_tool": "argocd"
+      "repo": "rwaltr/home-ops",
+      "description": "Flux2, Talos and Terraform to manage the Waltr.Tech environment",
+      "gitops_tool": "flux"
     },
     {
       "repo": "cbirkenbeul/k3s-gitops",
