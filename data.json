@@ -246,6 +246,11 @@
       "repo": "spirkaa/infra",
       "description": "ArgoCD managed k8s cluster (Kubeadm, Ansible, Terraform, Packer, Proxmox).",
       "gitops_tool": "argocd"
+    },
+    {
+      "repo": "szinn/k8s-homelab",
+      "description": "Home lab running with Flux2 on a Talos cluster with rook-ceph storage",
+      "gitope_tool": "flux"
     }
   ],
   "chart_repositories": [
